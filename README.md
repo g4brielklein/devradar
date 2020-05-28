@@ -1,2 +1,2 @@
-# devradar
-Projeto da Semana Omnistack #10
+DevRadar 🛰
+Aplicativo para encontrar desenvolvedor por distância e tecnologias
